@@ -1,0 +1,32 @@
+[33mcommit 54b5b56b9a1669553b700f0ad95f854bf6258556[m[33m ([m[1;36mHEAD -> [m[1;32msegunda-branch[m[33m)[m
+Author: FELIPE UTPADEL <felipe_utpadel@estudante.sesisenai.org.br>
+Date:   Tue Jul 30 20:01:16 2024 -0300
+
+    Minha segunda branch
+
+[33mcommit 1c405bc5007fc69537368db8f47041f1d01cd4f2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 5c9e225 5a9b832
+Author: Felipe Utpadel <felipe_utpadel@estudante.sesisenai.org.br>
+Date:   Tue Jul 30 19:45:18 2024 -0300
+
+    Merge pull request #1 from felipe-utpadel-senai/primeira-branch
+    
+    Meu primerio commit na minha primeira branch
+
+[33mcommit 5a9b832fe7c08405762ff0767c2f8983aa4627ae[m[33m ([m[1;31morigin/primeira-branch[m[33m, [m[1;32mprimeira-branch[m[33m)[m
+Author: FELIPE UTPADEL <felipe_utpadel@estudante.sesisenai.org.br>
+Date:   Tue Jul 30 19:29:33 2024 -0300
+
+    Meu primerio commit na minha primeira branch
+
+[33mcommit 5c9e225f100649e349a9772f5667ef88b7e61645[m
+Author: Felipe Utpadel <felipe_utpadel@estudante.sesisenai.org.br>
+Date:   Tue Jul 30 18:57:44 2024 -0300
+
+    Atualizado o arquivo txt
+
+[33mcommit 23c3c8fc67f8ffc8508c5d13da4c405b2283b658[m
+Author: FELIPE UTPADEL <felipe_utpadel@estudante.sesisenai.org.br>
+Date:   Mon Jul 29 21:12:13 2024 -0300
+
+    Criando meu primeiro projetinho pro senai
