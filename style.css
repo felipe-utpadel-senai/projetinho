@@ -1,0 +1,72 @@
+:root{
+    --fonte-principal: 'Montserrat', sans-serif;
+    --marrom: #9c7661;
+    --branco: #ffffff;
+    --bege: #ebd0a7;
+    --bege-escuro: #ebbc73;
+
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body{
+    font-family: var(--fonte-principal);
+    background-color: var(--bege-escuro);
+    color: var(--branco);
+}
+header{
+    background-color: var(--bege);
+    height: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+title{
+    text-align: center;
+    color: var(--branco);
+
+}
+.descricao_foto{
+    font-size: 10px;
+}
+.historia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5em;
+    gap: 0.5em;
+}
+table {
+    margin-top: 2em;
+    width: 100%;
+}
+
+
+th {
+    background-color:var(--marrom) 
+    padding: 20px;
+    text-align: center; 
+    border-bottom: 2px solid #ddd;
+}
+
+
+td {
+    padding: 10px;
+    text-align: left; 
+    border-bottom: 1px solid;
+}
+.curiosidades{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5em;
+    gap: 0.5em;
+}
+a{
+    color:var(--marrom);
+}
